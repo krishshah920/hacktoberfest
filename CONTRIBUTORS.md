@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+  #### Name: Krishna shahu
+ - Place: Banglore, INDIA
+ - Bio: Software engineer.
+ - GitHub: [Krishshah920](https://github.com/krishshah920)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
